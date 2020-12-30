@@ -1,8 +1,8 @@
 {
   "name": "manager-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple json file manager (1 dimension)",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

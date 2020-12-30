@@ -65,18 +65,9 @@ changeItem(file, _attrUnico, _valueUnico, _attr, _value)
 	├── src
 	│   └── example.js
 	│	└── data.json
-    ├── package.json
+	├── package.json
+
 ```
-
-:file_folder:`node_modules`
-
-:file_folder:`src​`
-
-​		:page_with_curl:`example.js​`
-
-​		:page_with_curl:`data.json`
-
-:page_with_curl:`package.json`
 
 #### File: `data.json`
 
