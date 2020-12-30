@@ -1,0 +1,23 @@
+{
+  "name": "manager-json",
+  "version": "1.0.0",
+  "description": "A simple json file manager (1 dimension)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "manager",
+    "save",
+    "edit",
+    "list",
+    "get",
+    "set",
+    "file",
+    "jsontofile",
+    "jsonfile"
+  ],
+  "author": "Your Name <thevictorxx@gmail.com> (https://thevictorxx.com)",
+  "license": "ISC"
+}
