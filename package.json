@@ -19,5 +19,13 @@
     "jsonfile"
   ],
   "author": "Your Name <thevictorxx@gmail.com> (https://thevictorxx.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thevictorxx/manager-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thevictorxx/manager-json/issues"
+  },
+  "homepage": "https://github.com/thevictorxx/manager-json#readme"
 }
